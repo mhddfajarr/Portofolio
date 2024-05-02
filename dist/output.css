@@ -387,6 +387,7 @@ ul.list-disc li::before {
   display: inline-block;
   width: 1em; /* Lebar yang sesuai */
 }
+
 :disabled {
   cursor: default;
 }
